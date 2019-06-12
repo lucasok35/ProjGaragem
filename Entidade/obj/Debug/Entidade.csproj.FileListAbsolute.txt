@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\ProjGaragem\Entidade\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjGaragem\Entidade\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjGaragem\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProjGaragem\Entidade\obj\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjGaragem\Entidade\obj\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjGaragem\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache

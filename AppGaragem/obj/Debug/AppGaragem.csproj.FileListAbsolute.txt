@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\AppGaragem.exe.config
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\AppGaragem.exe
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\AppGaragem.pdb
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.Form1.resources
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.Properties.Resources.resources
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.csproj.GenerateResource.Cache
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.exe
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.pdb
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Utils.dll
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Utils.pdb
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.Principal.resources

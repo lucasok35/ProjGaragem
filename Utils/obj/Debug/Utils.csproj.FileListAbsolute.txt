@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\ProjGaragem\Utils\bin\Debug\Utils.dll
+C:\Users\andre\source\repos\ProjGaragem\Utils\bin\Debug\Utils.pdb
+C:\Users\andre\source\repos\ProjGaragem\Utils\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjGaragem\Utils\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjGaragem\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ProjGaragem\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProjGaragem\Utils\obj\Debug\Utils.dll
+C:\Users\andre\source\repos\ProjGaragem\Utils\obj\Debug\Utils.pdb
